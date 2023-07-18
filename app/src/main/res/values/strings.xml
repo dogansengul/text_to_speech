@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextToSpeechTutorial</string>
+    <string name="hint_for_edittext">Enter a message</string>
+    <string name="button_text">Press to speak the entered chat</string>
+</resources>
